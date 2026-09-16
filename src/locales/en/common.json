@@ -1,6 +1,6 @@
 {
   "nav": {
-    "brandTitle": "MEDIPASS",
+    "brandTitle": "VEGAM",
     "brandBadge": "SevaPass",
     "brandSubtitle": "Govt Hospital Outpatient Access",
     "voiceBooking": "Voice Booking",
@@ -193,7 +193,7 @@
     "gpsTransmitted": "✓ Transmitted"
   },
   "workflow": {
-    "title": "How MEDIPASS Works",
+    "title": "How VEGAM Works",
     "subtitle": "10-Step Automated Hospital Journey — From Phone Call to Consultation Room",
     "step": "Step",
     "architectureTag": "10-Step Journey Architecture",
@@ -236,7 +236,7 @@
     "roomNavDesc": "Bypass chaotic central OPD queues. Walk straight to your assigned wing (e.g. Room 204, Floor 2) with step-by-step wayfinding instructions."
   },
   "footer": {
-    "brandText": "MEDIPASS (SevaPass) — Government Hospital AI Voice Booking & Digital Outpatient Pass System",
+    "brandText": "VEGAM (SevaPass) — Government Hospital AI Voice Booking & Digital Outpatient Pass System",
     "tagline": "\"Less Queue. Less Confusion. More Accessible Healthcare.\""
   }
 }

@@ -1,5 +1,5 @@
 /**
- * MEDIPASS Local / Offline Data Store
+ * VEGAM Local / Offline Data Store
  * Matches FastAPI SQLite schema and seed records from FILE.md
  */
 
@@ -279,7 +279,7 @@ export function saveStoredAppointments(appointments) {
 
 export const TRANSLATIONS = {
   en: {
-    brandTitle: "MEDIPASS",
+    brandTitle: "VEGAM",
     brandBadge: "SevaPass",
     brandSubtitle: "Govt Hospital Outpatient Access",
     voiceBooking: "Voice Booking",
@@ -303,7 +303,7 @@ export const TRANSLATIONS = {
     newBooking: "New Voice Booking"
   },
   hi: {
-    brandTitle: "मेडीपास",
+    brandTitle: "VEGAM",
     brandBadge: "सेवापास",
     brandSubtitle: "सरकारी अस्पताल बाह्यरोगी (ओपीडी) सेवा",
     voiceBooking: "आवाज़ से बुकिंग",
@@ -327,7 +327,7 @@ export const TRANSLATIONS = {
     newBooking: "नई वॉयस बुकिंग"
   },
   ml: {
-    brandTitle: "മെഡിപാസ്",
+    brandTitle: "VEGAM",
     brandBadge: "സേവാപാസ്",
     brandSubtitle: "സർക്കാർ ആശുപത്രി ഒപി ഡിജിറ്റൽ പാസ്",
     voiceBooking: "വോയ്‌സ് ബുക്കിംഗ്",
