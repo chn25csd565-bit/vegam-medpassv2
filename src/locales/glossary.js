@@ -1,5 +1,5 @@
 /**
- * MEDIPASS Malayalam Medical Glossary & Speech Ontology
+ * VEGAM Malayalam Medical Glossary & Speech Ontology
  * Provides authentic Kerala healthcare department mappings, code-switched phrases,
  * spoken digit normalization, and clinical synonyms.
  */

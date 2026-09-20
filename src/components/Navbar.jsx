@@ -30,7 +30,7 @@ export default function Navbar({
             <div>
               <div className="flex items-center gap-1 sm:gap-1.5">
                 <span className="text-base sm:text-xl font-black tracking-tight text-slate-900">
-                  MEDI<span className="text-sky-700">PASS</span>
+                  VEGAM
                 </span>
                 <span className="hidden min-[400px]:inline-block text-[9px] sm:text-xs px-1.5 sm:px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800 font-semibold border border-emerald-200">
                   {t('nav.brandBadge')}

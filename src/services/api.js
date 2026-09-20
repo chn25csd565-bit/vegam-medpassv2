@@ -1,5 +1,5 @@
 /**
- * API Service for MEDIPASS
+ * API Service for VEGAM
  * Communicates with FastAPI backend (http://localhost:8000)
  * with transparent client-side fallback for offline / standalone prototype usage.
  */
